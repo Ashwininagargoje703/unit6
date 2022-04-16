@@ -1,0 +1,28 @@
+{
+  "Country": [
+    {
+      "country_name": "india",
+      "city_name": "patna",
+      "population": "25000",
+      "id": 1
+    },
+    {
+      "country_name": "USA",
+      "city_name": "London",
+      "population": "560000",
+      "id": 2
+    },
+    {
+      "country_name": "",
+      "city_name": "",
+      "population": "",
+      "id": 3
+    },
+    {
+      "country_name": "",
+      "city_name": "",
+      "population": "",
+      "id": 4
+    }
+  ]
+}
